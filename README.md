@@ -56,7 +56,7 @@
 
 ---
 
-### 📊 Data Structures (Java)
+### 📊 [Data Structures (Java)](https://github.com/KhusLab/Data-Structures)
 > Core computer science concepts and implementations  
 
 - Arrays, lists, stacks, queues  
@@ -65,7 +65,7 @@
 
 ---
 
-### 💻 Computer Systems (C)
+### 💻 [Computer Systems (C)](https://github.com/KhusLab/Computer-Systems-Class)
 > Coursework exploring low-level system behavior  
 
 - Memory handling  
@@ -74,7 +74,7 @@
 
 ---
 
-### 🧪 CNC / Cyber Project
+### 🧪 [CNC / Cyber Project](https://github.com/KhusLab/CNC)
 > Security-focused experimentation project  
 
 - Explores system behavior and security concepts  
