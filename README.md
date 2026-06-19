@@ -1,141 +1,171 @@
+<!-- CYBER HEADER -->
 <p align="center">
-  https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,100:1b2a41&height=200&section=header&text=KhusLab&fontSize=50&fontColor=00F7FF
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=KhusLab&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- TYPING -->
 <p align="center">
-  https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE;IT+OPERATIONS+%7C+AUTOMATION;NETWORKING+%7C+SYSTEMS;POWERSHELL+%7C+PYTHON+%7C+C"/>
-</p>
-
----
-
-<h2 align="center">KhusLab</h2>
-
-<p align="center">
-IT • Systems • Automation • Infrastructure
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=IT+Intern+%7C+Automation+Builder;Homelab+%26+Server+Projects;Networking+%7C+Systems+Focus;PowerShell+%7C+Python+%7C+C"/>
 </p>
 
 ---
 
-## Current Focus
-
-```
-Homelab and server environment
-Automation (PowerShell + Python)
-Networking and system fundamentals
-Performance monitoring and diagnostics
-Docker and self-hosted tools
-```
-
----
-
-## Tech Stack
+# 👨‍💻 KhusLab
 
 <p align="center">
-  https://img.shields.io/badge/C-0a0f1c?style=for-the-badge&logo=c&logoColor=00F7FF
-  https://img.shields.io/badge/Java-0a0f1c?style=for-the-badge&logo=openjdk&logoColor=00F7FF
-  https://img.shields.io/badge/Python-0a0f1c?style=for-the-badge&logo=python&logoColor=00F7FF
-  https://img.shields.io/badge/PowerShell-0a0f1c?style=for-the-badge&logo=powershell&logoColor=00F7FF
-  https://img.shields.io/badge/Windows-0a0f1c?style=for-the-badge&logo=windows&logoColor=00F7FF
+  🚀 IT Intern • Systems & Automation Focus • Future Infrastructure Engineer  
+</p>
+
+<p align="center">
+  I build and explore real-world systems, networking tools, and automation projects — combining IT experience with software development.
 </p>
 
 ---
 
-## Projects
+## ⚡ Current Focus
 
-### [HTTP Client Server](https://github.com/KhusLab/HTTP-Client-Server)
-```
-C-based socket project implementing HTTP-style communication
-Focus on networking fundamentals and client/server architecture
-```
-
----
-
-### [Data Structures](https://github.com/KhusLab/)
-```
-Java implementations of core data structures
-Focus on logic, efficiency, and algorithm fundamentals
-```
+- 🖥️ Building a homelab / server environment  
+- 🧠 Learning system-level programming + networking  
+- ⚙️ Automating IT workflows (PowerShell + Python)  
+- 📊 Understanding infrastructure + performance  
+- 🐳 Getting into Docker & self-hosted apps  
 
 ---
 
-### [Computer Systems](https://github.com/KhusLab/)
-```
-Low-level systems concepts including memory handling and execution
-```
-
----
-
-### [CNC Project](https://github.com/KhusLab/CNC)
-```
-Security-focused experimentation exploring system behavior
-```
-
----
-
-## In Progress
-
-```
-IT Toolkit
-- Disk cleanup automation
-- Network diagnostics (ping / DNS)
-- System information tools
-
-Server Dashboard
-- CPU / RAM monitoring
-- Disk tracking
-- Uptime and services
-```
-
----
-
-## Stats
+## 🧰 Tech Stack
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=KhusLab&show_icons=true&theme=tokyonight&hide_border=true
-  https://github-readme-stats.vercel.app/api/top-langs/?username=KhusLab&layout=compact&theme=tokyonight&hide_border=true
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---
 
-## Activity
+## 🧠 Projects
+
+### 🌐 [HTTP Client-Server (C)](https://github.com/KhusLab/HTTP-Client-Server)
+> Low-level networking project implementing HTTP communication  
+
+- Built using sockets in C  
+- Demonstrates client/server architecture  
+- Explores networking fundamentals  
+
+---
+
+### 📊 [Data Structures (Java)](https://github.com/KhusLab/Data-Structures)
+> Core computer science concepts and implementations  
+
+- Arrays, lists, stacks, queues  
+- Algorithmic thinking and performance  
+- Java-based implementations  
+
+---
+
+### 💻 [Computer Systems (C)](https://github.com/KhusLab/Computer-Systems-Class)
+> Coursework exploring low-level system behavior  
+
+- Memory handling  
+- System-level logic  
+- Performance concepts  
+
+---
+
+### 🧪 [CNC / Cyber Project](https://github.com/KhusLab/CNC)
+> Security-focused experimentation project  
+
+- Explores system behavior and security concepts  
+- Hands-on exposure to cybersecurity fundamentals  
+
+---
+
+⚡ *Currently working on transitioning from coursework → real-world tools*
+
+---
+
+## 🚀 Upcoming Projects
+
+### 🛠️ IT Toolkit (In Progress)
+- Disk cleanup automation  
+- Network tools (ping / DNS)  
+- Outlook troubleshooting utilities  
+- System diagnostics panel  
+
+---
+
+### 🖥️ Server Dashboard
+- Monitor CPU / RAM / disk usage  
+- Track server uptime  
+- Manage services  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  https://github-readme-streak-stats.herokuapp.com/?user=KhusLab&theme=tokyonight&hide_border=true
+  <img src="https://github-readme-stats.vercel.app/api?username=KhusLab&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusLab&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## Contribution Snake
+## 🔥 Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KhusLab/KhusLab/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhusLab&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhusLab/KhusLab/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhusLab/KhusLab/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhusLab/KhusLab/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhusLab&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 </p>
 
 ---
 
-## Visitors
+## 🎯 Goals
+
+- Transition into systems / infrastructure engineering  
+- Build real-world IT tools used daily  
+- Learn DevOps, Docker, and automation pipelines  
+- Strengthen networking + server knowledge  
+
+---
+
+## 📡 Currently Learning
+
+- Docker & containerization  
+- Linux server fundamentals  
+- Automation scripting  
+- Network monitoring  
+- GitHub project development  
+
+---
+
+## ⚡ Philosophy
 
 <p align="center">
-  https://komarev.com/ghpvc/?username=KhusLab&label=VIEWS&color=00F7FF&style=for-the-badge
+  Build tools • Solve problems • Automate everything  
 </p>
 
 ---
 
-## Goals
-
-```
-Build real IT tools used daily
-Move into systems / infrastructure engineering
-Learn Docker, DevOps, automation pipelines
-Strengthen networking and server knowledge
-```
-
----
-
+<!-- FOOTER -->
 <p align="center">
-System Status: ACTIVE
-</p>
-
-<p align="center">
-  https://capsule-render.vercel.app/api?type=waving&color=0:1b2a41,100:0a0f1c&height=120&section=footer
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
