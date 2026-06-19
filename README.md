@@ -47,7 +47,7 @@
 
 ## 🧠 Projects
 
-### 🌐 HTTP Client-Server (C)
+### 🌐 [HTTP Client-Server (C)](https://github.com/KhusLab/HTTP-Client-Server)
 > Low-level networking project implementing HTTP communication  
 
 - Built using sockets in C  
